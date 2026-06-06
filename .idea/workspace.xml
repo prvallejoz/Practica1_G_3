@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="added .env and docker-compose.yml files">
+      <change afterPath="$PROJECT_DIR$/desarrolloG3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,13 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -38,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0025776410197096" />
-      <entry key="MS500" value="1.382904952913703" />
-      <entry key="S2" value="2.6230481068459923" />
-      <entry key="S5" value="3.3267041037821325" />
-      <entry key="S10" value="3.6383414533870964" />
-      <entry key="S30" value="3.873376229664311" />
-      <entry key="S60" value="3.9358946551345806" />
-      <entry key="M2" value="3.967746266754128" />
-      <entry key="M5" value="3.987049902646679" />
-      <entry key="M10" value="3.9935168213411067" />
-      <entry key="M15" value="3.9956760720538838" />
-      <entry key="M30" value="3.9978371310618415" />
-      <entry key="H1" value="3.9989183391873975" />
-      <entry key="H2" value="3.999459112995031" />
-      <entry key="H4" value="3.99972954234625" />
-      <entry key="D1" value="3.999954921758786" />
-      <entry key="W1" value="3.9999935602031167" />
+      <entry key="MS100" value="1.3556565984485927" />
+      <entry key="MS500" value="3.0199973513819978" />
+      <entry key="S2" value="5.281349560912279" />
+      <entry key="S5" value="6.565762394058619" />
+      <entry key="S10" value="8.088783123397436" />
+      <entry key="S30" value="11.391418750765926" />
+      <entry key="S60" value="15.088284998897374" />
+      <entry key="M2" value="22.598302581198485" />
+      <entry key="M5" value="39.97666566296406" />
+      <entry key="M10" value="57.29103828954353" />
+      <entry key="M15" value="66.9278696025368" />
+      <entry key="M30" value="79.95928238380223" />
+      <entry key="H1" value="88.22109550263285" />
+      <entry key="H2" value="92.90073850213051" />
+      <entry key="H4" value="95.39512022844345" />
+      <entry key="D1" value="97.55792831006477" />
+      <entry key="W1" value="97.93664943672233" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.3522165105654381E-65" />
+      <entry key="MS500" value="1.0622072146397598E-13" />
+      <entry key="S2" value="5.708898369577367E-4" />
+      <entry key="S5" value="0.050422099454111184" />
+      <entry key="S10" value="0.224548657208435" />
+      <entry key="S30" value="0.607813237382141" />
+      <entry key="S60" value="0.7796357027882472" />
+      <entry key="M2" value="0.8864161092782418" />
+      <entry key="M5" value="1.0550115277519467" />
+      <entry key="M10" value="1.297253178248954" />
+      <entry key="M15" value="1.4531754692080374" />
+      <entry key="M30" value="1.6770352400315414" />
+      <entry key="H1" value="1.8236874323301828" />
+      <entry key="H2" value="1.9077781010226376" />
+      <entry key="H4" value="1.9528241015903207" />
+      <entry key="D1" value="1.9919851310322425" />
+      <entry key="W1" value="1.9988512333818609" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9485131993146412" />
-      <entry key="MS500" value="1.3679949993985538" />
-      <entry key="S2" value="2.6158754082678772" />
-      <entry key="S5" value="3.323036187160212" />
-      <entry key="S10" value="3.636329879981864" />
-      <entry key="S30" value="3.8726609855272742" />
-      <entry key="S60" value="3.935531081230865" />
-      <entry key="M2" value="3.9675629633314413" />
-      <entry key="M5" value="3.986976213615255" />
-      <entry key="M10" value="3.993479915236699" />
-      <entry key="M15" value="3.995651454274726" />
-      <entry key="M30" value="3.997824815311685" />
-      <entry key="H1" value="3.998912179596085" />
-      <entry key="H2" value="3.9994560327701807" />
-      <entry key="H4" value="3.9997280021265094" />
-      <entry key="D1" value="3.9999546650405895" />
-      <entry key="W1" value="3.999993523528724" />
+      <entry key="MS100" value="0.3862734521389276" />
+      <entry key="MS500" value="2.1696180162985303" />
+      <entry key="S2" value="4.806715411779946" />
+      <entry key="S5" value="6.335553410813736" />
+      <entry key="S10" value="8.059206699777118" />
+      <entry key="S30" value="11.814589814971226" />
+      <entry key="S60" value="15.750093920887998" />
+      <entry key="M2" value="23.417439760446676" />
+      <entry key="M5" value="41.001603481881745" />
+      <entry key="M10" value="58.5719859010313" />
+      <entry key="M15" value="68.36970139198957" />
+      <entry key="M30" value="81.63032312208504" />
+      <entry key="H1" value="90.04168302414008" />
+      <entry key="H2" value="94.80693756722911" />
+      <entry key="H4" value="97.34714706522095" />
+      <entry key="D1" value="99.54977944466928" />
+      <entry key="W1" value="99.93548149977552" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -109,6 +117,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -124,8 +133,18 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prval\PycharmProjects\Practica1_G#3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -140,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780761768840</updated>
-      <workItem from="1780761769867" duration="774000" />
+      <workItem from="1780761769867" duration="1960000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -150,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780761891549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added .env and docker-compose.yml files">
+      <option name="closed" value="true" />
+      <created>1780762718456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780762718456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +194,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -175,6 +213,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="added .env and docker-compose.yml files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .env and docker-compose.yml files" />
   </component>
 </project>
