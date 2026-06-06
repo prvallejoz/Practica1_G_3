@@ -1,18 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="" />
+    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
+  </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prvallejoz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prvallejoz/Practica1_G_3.git",
+    "accountId": "4ca01af0-b2ca-4609-95b6-3ef332a20b6c"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0025776410197096" />
+      <entry key="MS500" value="1.382904952913703" />
+      <entry key="S2" value="2.6230481068459923" />
+      <entry key="S5" value="3.3267041037821325" />
+      <entry key="S10" value="3.6383414533870964" />
+      <entry key="S30" value="3.873376229664311" />
+      <entry key="S60" value="3.9358946551345806" />
+      <entry key="M2" value="3.967746266754128" />
+      <entry key="M5" value="3.987049902646679" />
+      <entry key="M10" value="3.9935168213411067" />
+      <entry key="M15" value="3.9956760720538838" />
+      <entry key="M30" value="3.9978371310618415" />
+      <entry key="H1" value="3.9989183391873975" />
+      <entry key="H2" value="3.999459112995031" />
+      <entry key="H4" value="3.99972954234625" />
+      <entry key="D1" value="3.999954921758786" />
+      <entry key="W1" value="3.9999935602031167" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9485131993146412" />
+      <entry key="MS500" value="1.3679949993985538" />
+      <entry key="S2" value="2.6158754082678772" />
+      <entry key="S5" value="3.323036187160212" />
+      <entry key="S10" value="3.636329879981864" />
+      <entry key="S30" value="3.8726609855272742" />
+      <entry key="S60" value="3.935531081230865" />
+      <entry key="M2" value="3.9675629633314413" />
+      <entry key="M5" value="3.986976213615255" />
+      <entry key="M10" value="3.993479915236699" />
+      <entry key="M15" value="3.995651454274726" />
+      <entry key="M30" value="3.997824815311685" />
+      <entry key="H1" value="3.998912179596085" />
+      <entry key="H2" value="3.9994560327701807" />
+      <entry key="H4" value="3.9997280021265094" />
+      <entry key="D1" value="3.9999546650405895" />
+      <entry key="W1" value="3.999993523528724" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -28,11 +109,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/prval/PycharmProjects/Practica1_G#3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -51,11 +140,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780761768840</updated>
-      <workItem from="1780761769867" duration="1000" />
+      <workItem from="1780761769867" duration="774000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1780761891549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780761891549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
