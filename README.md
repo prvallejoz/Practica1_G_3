@@ -12,3 +12,8 @@
 
 
 <img width="979" height="349" alt="image" src="https://github.com/user-attachments/assets/225fb609-5cd7-49f4-84cb-d08fb0992d0b" />
+
+
+## Data Base up
+
+<img width="630" height="633" alt="image" src="https://github.com/user-attachments/assets/93a9bb1c-b8ec-425d-bd60-2e09ff46cf26" />
