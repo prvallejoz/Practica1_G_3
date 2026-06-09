@@ -60,8 +60,6 @@ docker ps
 
 ### 2. Contenedores activos
 
-<!-- Ejecutar "docker ps" 
-
 <img width="981" height="350" alt="image" src="https://github.com/user-attachments/assets/125b6a2b-a3ce-46d6-be67-8367ee2d2646" />
 
 
