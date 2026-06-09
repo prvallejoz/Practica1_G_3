@@ -61,17 +61,20 @@ docker ps
 ### 2. Contenedores activos
 
 <!-- Ejecutar "docker ps" 
-<img width="979" height="349" alt="image" src="https://github.com/user-attachments/assets/225fb609-5cd7-49f4-84cb-d08fb0992d0b" />
+
+<img width="981" height="350" alt="image" src="https://github.com/user-attachments/assets/125b6a2b-a3ce-46d6-be67-8367ee2d2646" />
 
 
-<img width="1918" height="466" alt="image" src="https://github.com/user-attachments/assets/b9ae1fce-9291-4aa3-9485-796822a552e7" />
+<img width="1919" height="473" alt="image" src="https://github.com/user-attachments/assets/d22074fe-df67-4c93-aa04-adc32c765d8d" />
+
 
 
 ### 3. Base de datos creada en PyCharm
 
 ## Data Base up
 
-<img width="630" height="633" alt="image" src="https://github.com/user-attachments/assets/93a9bb1c-b8ec-425d-bd60-2e09ff46cf26" />
+<img width="504" height="507" alt="image" src="https://github.com/user-attachments/assets/41956d53-5280-4480-b67d-6281713f4a7e" />
+
 
 
 ## Fase II – Desarrollo
