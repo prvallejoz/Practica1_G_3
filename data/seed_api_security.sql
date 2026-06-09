@@ -1,6 +1,8 @@
 -- Script de carga de datos: api_security_events
 -- Dominio: Ciberseguridad Bancaria
--- Fuente: PostgreSQL (tabla principal del proyecto ETL)
+-- Fuente: PostgreSQL (tabla principal del proyecto ETL);
+
+DROP TABLE IF EXISTS api_security_events;
 
 CREATE TABLE IF NOT EXISTS api_security_events (
     event_id SERIAL PRIMARY KEY,

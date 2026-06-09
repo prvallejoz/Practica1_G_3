@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="added jupiter notebook">
+      <change beforePath="$PROJECT_DIR$/.idea/Practica1_G#3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practica1_G#3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seed_api_security.sql" beforeDir="false" afterPath="$PROJECT_DIR$/data/seed_api_security.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desarrolloG3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/desarrolloG3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,16 +30,16 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "prvallejoz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prvallejoz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/prvallejoz/Practica1_G_3.git",
-    "accountId": "4ca01af0-b2ca-4609-95b6-3ef332a20b6c"
+    "accountId": "ed1e77a6-0864-4b66-b1ff-c24c6f92b756"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -102,10 +105,10 @@
       <entry key="W1" value="111.89500349517175" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3ElmwS8i8fRHWnIeemEvgbtJdeK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -122,6 +125,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/prval/PycharmProjects/Practica1_G#3",
     "node.js.detected.package.eslint": "true",
@@ -159,6 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780761768840</updated>
       <workItem from="1780761769867" duration="2666000" />
+      <workItem from="1781011828882" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
