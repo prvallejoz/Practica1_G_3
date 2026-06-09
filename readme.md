@@ -53,19 +53,22 @@ docker ps
 
 <!-- CAPTURA 1: ejecuta "docker-compose up -d" en la terminal y captura la salida completa mostrando las líneas verdes de "Started" o "Running" -->
 
-![docker-compose up](capturas/01_docker_compose_up.png)
+<img width="1074" height="363" alt="image" src="https://github.com/user-attachments/assets/31b49199-69fd-442e-8172-ed5d2f290416" />
 
 ### 2. Contenedores activos
 
 <!-- CAPTURA 2: ejecuta "docker ps" y captura la terminal mostrando el contenedor ciber_12B con status "Up" y puerto 5432 mapeado -->
 
-![docker ps](capturas/02_docker_ps.png)
+<img width="981" height="350" alt="image" src="https://github.com/user-attachments/assets/125b6a2b-a3ce-46d6-be67-8367ee2d2646" />
+
+
+<img width="1919" height="473" alt="image" src="https://github.com/user-attachments/assets/d22074fe-df67-4c93-aa04-adc32c765d8d" />
 
 ### 3. Base de datos creada en PyCharm
 
 <!-- CAPTURA 3: en PyCharm Pro ve a la pestaña Database → conexión a dbmcib12b → captura el ícono verde de conectado y el árbol de objetos de la base de datos -->
 
-![database connection](capturas/03_pycharm_db_connection.png)
+<img width="504" height="507" alt="image" src="https://github.com/user-attachments/assets/41956d53-5280-4480-b67d-6281713f4a7e" />
 
 ---
 
@@ -75,25 +78,28 @@ docker ps
 
 <!-- CAPTURA 4: ejecuta la celda de imports en el notebook y captura la salida: "✅ Dependencias cargadas correctamente" -->
 
-![imports](capturas/04_imports_ok.png)
+<img width="724" height="400" alt="image" src="https://github.com/user-attachments/assets/165d497d-0ecd-4a6b-b96c-ea899d0bd39f" />
+
 
 ### 5. Variables de entorno y conexión
 
 <!-- CAPTURA 5: ejecuta las celdas de variables de entorno y engine, captura la línea "🔌 Conectando a: localhost:5432/dbmcib12b como usuario 'admin'" -->
 
-![env vars](capturas/05_env_vars.png)
+<img width="728" height="416" alt="image" src="https://github.com/user-attachments/assets/1178f873-c1e7-4bd7-b581-549b425e9d1e" />
+
 
 ### 6. Seed SQL ejecutado – tabla api_security_events cargada
 
 <!-- CAPTURA 6: ejecuta la celda del seed SQL y captura la salida: "✅ Tabla 'api_security_events' creada y datos cargados" -->
 
-![seed sql](capturas/06_seed_sql_ok.png)
+<img width="724" height="722" alt="image" src="https://github.com/user-attachments/assets/0759c76f-a2e4-45ca-a474-2e097cc33200" />
+
 
 ### 7. Los tres DataFrames generados
 
 <!-- CAPTURA 7: ejecuta la celda de carga de los 3 DataFrames y captura las 3 líneas de confirmación con el shape de cada uno -->
 
-![dataframes loaded](capturas/07_dataframes_cargados.png)
+<img width="725" height="588" alt="image" src="https://github.com/user-attachments/assets/8e3aa853-c2d0-44df-b9cb-31ee72e66fb4" />
 
 ---
 
@@ -103,25 +109,28 @@ docker ps
 
 <!-- CAPTURA 8: ejecuta df_postgres.head() y captura la tabla completa con las 5 filas y todas las columnas -->
 
-![postgres head](capturas/08_postgres_head.png)
+<img width="1526" height="549" alt="image" src="https://github.com/user-attachments/assets/df381ad1-790f-4193-ae17-9a773c3eeec9" />
+
 
 ### 9. Columnas con valores nulos y conteo
 
 <!-- CAPTURA 9: ejecuta las celdas de nulos (ii y iii) y captura ambas salidas juntas -->
 
-![postgres nulls](capturas/09_postgres_nulos.png)
+<img width="1152" height="567" alt="image" src="https://github.com/user-attachments/assets/114859a1-c737-43f0-92f6-5b485aac7366" />
+
 
 ### 10. Estadísticas de response_time_ms
 
 <!-- CAPTURA 10: ejecuta la celda de estadísticas y captura las 3 líneas con promedio, máximo y mínimo -->
 
-![postgres stats](capturas/10_postgres_stats.png)
+<img width="990" height="338" alt="image" src="https://github.com/user-attachments/assets/24e8bd89-7752-4e86-a6da-eaa508e86884" />
+
 
 ### 11. Máximo y mínimo de risk_score agrupado por canal y tipo de evento
 
 <!-- CAPTURA 11: ejecuta la celda de agrupación y captura la tabla completa ordenada por risk_max -->
 
-![postgres group](capturas/11_postgres_agrupado.png)
+<img width="986" height="731" alt="image" src="https://github.com/user-attachments/assets/590a8f2c-3af9-4f1d-b410-61438cffb1ad" />
 
 ---
 
@@ -131,25 +140,28 @@ docker ps
 
 <!-- CAPTURA 12: ejecuta df_csv.head() y captura la tabla con las 5 filas -->
 
-![csv head](capturas/12_csv_head.png)
+<img width="1517" height="411" alt="image" src="https://github.com/user-attachments/assets/d0f4f757-4f48-4e4f-86c2-52a6a587143b" />
+
 
 ### 13. Columnas con valores nulos y conteo
 
 <!-- CAPTURA 13: captura ambas salidas de nulos del CSV (columnas con nulos + conteo) -->
 
-![csv nulls](capturas/13_csv_nulos.png)
+<img width="1050" height="724" alt="image" src="https://github.com/user-attachments/assets/acac77af-0cec-4c07-83a8-fe3d73d8e5bb" />
+
 
 ### 14. Estadísticas de bytes_transferred
 
 <!-- CAPTURA 14: captura las 3 líneas de promedio, máximo y mínimo en KB/MB -->
 
-![csv stats](capturas/14_csv_stats.png)
+<img width="907" height="571" alt="image" src="https://github.com/user-attachments/assets/a233a6aa-b35d-4a2a-b901-96df306c7dad" />
+
 
 ### 15. Duración máxima y mínima agrupada por tipo de ataque y severidad
 
 <!-- CAPTURA 15: captura la tabla completa ordenada por duracion_max_seg -->
 
-![csv group](capturas/15_csv_agrupado.png)
+<img width="873" height="741" alt="image" src="https://github.com/user-attachments/assets/ecfe0680-e556-4cc9-af3d-488d5c03896d" />
 
 ---
 
@@ -159,23 +171,26 @@ docker ps
 
 <!-- CAPTURA 16: ejecuta df_json.head() y captura la tabla con las 5 filas y columnas CVE -->
 
-![json head](capturas/16_json_head.png)
+<img width="1526" height="407" alt="image" src="https://github.com/user-attachments/assets/c0d6ceca-87a2-4b71-93c5-9a64259493cc" />
+
 
 ### 17. Columnas con valores nulos y conteo
 
 <!-- CAPTURA 17: captura las salidas de nulos del JSON -->
 
-![json nulls](capturas/17_json_nulos.png)
+<img width="1184" height="723" alt="image" src="https://github.com/user-attachments/assets/6f0f42d8-a30d-4b5d-8797-d1676673fbc2" />
+
 
 ### 18. Estadísticas de cvss_score
 
 <!-- CAPTURA 18: captura las 3 líneas con promedio, máximo y mínimo del score CVSS -->
 
-![json stats](capturas/18_json_stats.png)
+<img width="834" height="585" alt="image" src="https://github.com/user-attachments/assets/1e7cbedd-ba35-4518-8880-5f2f0bb83544" />
+
 
 ### 19. Hosts afectados agrupados por sistema y severidad CVSS
 
 <!-- CAPTURA 19: captura la tabla completa ordenada por hosts_max -->
 
-![json group](capturas/19_json_agrupado.png)
+<img width="1101" height="739" alt="image" src="https://github.com/user-attachments/assets/37d0dc92-23a3-4b11-a930-7554798626b6" />
 
