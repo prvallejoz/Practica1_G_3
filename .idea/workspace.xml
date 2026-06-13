@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="added jupiter notebook">
-      <change afterPath="$PROJECT_DIR$/TransformG3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3f3b8e9-efc1-4f10-b043-56bd2e912829" name="Changes" comment="added jupiter notebook for TransformG3.ipynb">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransformG3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TransformG3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desarrolloG3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/desarrolloG3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0017726533441722" />
-      <entry key="MS500" value="1.4701874116335394" />
-      <entry key="S2" value="3.058129750145627" />
-      <entry key="S5" value="4.304482296664251" />
-      <entry key="S10" value="5.018150047010492" />
-      <entry key="S30" value="5.778786580058378" />
-      <entry key="S60" value="6.77401867020427" />
-      <entry key="M2" value="10.615325678115756" />
-      <entry key="M5" value="26.789935147969658" />
-      <entry key="M10" value="47.81456919279149" />
-      <entry key="M15" value="60.878975725360874" />
-      <entry key="M30" value="79.79663508194801" />
-      <entry key="H1" value="92.44454926091045" />
-      <entry key="H2" value="99.81284840095977" />
-      <entry key="H4" value="103.7975930963545" />
-      <entry key="D1" value="107.28389586079352" />
-      <entry key="W1" value="107.89730691215875" />
+      <entry key="MS100" value="2.1703647565850583" />
+      <entry key="MS500" value="5.837893452192643" />
+      <entry key="S2" value="10.060165943385197" />
+      <entry key="S5" value="11.66959320493171" />
+      <entry key="S10" value="12.305380335205355" />
+      <entry key="S30" value="12.761550405002108" />
+      <entry key="S60" value="12.895658332417728" />
+      <entry key="M2" value="13.563203918019925" />
+      <entry key="M5" value="21.37303301404504" />
+      <entry key="M10" value="47.60867162888432" />
+      <entry key="M15" value="81.43064013297669" />
+      <entry key="M30" value="177.97190248968624" />
+      <entry key="H1" value="301.6957383579558" />
+      <entry key="H2" value="414.6186278289906" />
+      <entry key="H4" value="495.0969456250527" />
+      <entry key="D1" value="580.4405579823458" />
+      <entry key="W1" value="597.1489874406184" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.503527297507592E-301" />
-      <entry key="MS500" value="8.874179825779915E-61" />
-      <entry key="S2" value="9.705816053981614E-16" />
-      <entry key="S5" value="9.88128484592056E-7" />
-      <entry key="S10" value="9.952106368772919E-4" />
-      <entry key="S30" value="0.11053837107872977" />
-      <entry key="S60" value="0.433172435691169" />
-      <entry key="M2" value="1.0039866622725113" />
-      <entry key="M5" value="1.9050488809192343" />
-      <entry key="M10" value="2.5595215686249406" />
-      <entry key="M15" value="2.900312607957489" />
-      <entry key="M30" value="3.3582873632912404" />
-      <entry key="H1" value="3.6506043180406476" />
-      <entry key="H2" value="3.8173097302122234" />
-      <entry key="H4" value="3.906537477375518" />
-      <entry key="D1" value="3.9841180880715372" />
-      <entry key="W1" value="3.997723545874611" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.6549959464418076E-124" />
+      <entry key="S5" value="5.351628859504064E-50" />
+      <entry key="S10" value="3.0483631910988215E-25" />
+      <entry key="S30" value="1.237306093212475E-8" />
+      <entry key="S60" value="2.1457875477951817E-4" />
+      <entry key="M2" value="0.032796875390021636" />
+      <entry key="M5" value="0.7350496721431768" />
+      <entry key="M10" value="2.3322195833266486" />
+      <entry key="M15" value="3.829018851485894" />
+      <entry key="M30" value="7.4902462450050145" />
+      <entry key="H1" value="12.105802734244913" />
+      <entry key="H2" value="16.49180974304436" />
+      <entry key="H4" value="19.712275035869453" />
+      <entry key="D1" value="23.194085744094036" />
+      <entry key="W1" value="23.88236413356024" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9676361402605842" />
-      <entry key="MS500" value="1.4591538466329121" />
-      <entry key="S2" value="3.051997353814511" />
-      <entry key="S5" value="4.300965550899625" />
-      <entry key="S10" value="5.016853433730984" />
-      <entry key="S30" value="5.879409113523499" />
-      <entry key="S60" value="7.187369593085168" />
-      <entry key="M2" value="11.592050745808045" />
-      <entry key="M5" value="28.669972889816364" />
-      <entry key="M10" value="50.356437626476065" />
-      <entry key="M15" value="63.765876966172925" />
-      <entry key="M30" value="83.14718800482066" />
-      <entry key="H1" value="96.09097660993943" />
-      <entry key="H2" value="103.62798400787767" />
-      <entry key="H4" value="107.70302095058896" />
-      <entry key="D1" value="111.26782577376197" />
-      <entry key="W1" value="111.89500349517175" />
+      <entry key="MS100" value="2.090861966418618" />
+      <entry key="MS500" value="5.792906411901711" />
+      <entry key="S2" value="10.040126983706848" />
+      <entry key="S5" value="11.660203200374053" />
+      <entry key="S10" value="12.300412034827204" />
+      <entry key="S30" value="12.759828764170303" />
+      <entry key="S60" value="12.894989723270768" />
+      <entry key="M2" value="13.594726014308119" />
+      <entry key="M5" value="22.101264046906675" />
+      <entry key="M10" value="49.93044002234524" />
+      <entry key="M15" value="85.2481364186168" />
+      <entry key="M30" value="185.45063098922728" />
+      <entry key="H1" value="313.79205166709465" />
+      <entry key="H2" value="431.1038770116534" />
+      <entry key="H4" value="514.8052626289724" />
+      <entry key="D1" value="603.6338604886533" />
+      <entry key="W1" value="621.031236171448" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -117,35 +117,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/prval/PycharmProjects/Practica1_G#3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "dev__prvallejo",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/prval/PycharmProjects/Practica1_G#3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\prval\PycharmProjects\Practica1_G#3" />
@@ -168,7 +168,7 @@
       <workItem from="1780761769867" duration="2666000" />
       <workItem from="1781011828882" duration="4470000" />
       <workItem from="1781357798514" duration="11000" />
-      <workItem from="1781359853493" duration="753000" />
+      <workItem from="1781359853493" duration="8743000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -202,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780764080396</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added jupiter notebook for TransformG3.ipynb">
+      <option name="closed" value="true" />
+      <created>1781360681605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781360681605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +232,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="dev_prvallejo" />
                       </list>
                     </value>
                   </entry>
@@ -240,6 +248,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added .env and docker-compose.yml files" />
     <MESSAGE value="added jupiter notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="added jupiter notebook" />
+    <MESSAGE value="added jupiter notebook for TransformG3.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="added jupiter notebook for TransformG3.ipynb" />
   </component>
 </project>
