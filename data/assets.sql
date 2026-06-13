@@ -1,3 +1,14 @@
+create table assets
+(
+    device_ip         text,
+    device_name       text,
+    department        text,
+    criticality_level text
+);
+
+alter table assets
+    owner to admin;
+
 INSERT INTO public.assets (device_ip, device_name, department, criticality_level) VALUES ('192.168.140.208', 'SRV-ELECTION-91', 'Finanzas', 'Media');
 INSERT INTO public.assets (device_ip, device_name, department, criticality_level) VALUES ('10.52.122.63', 'SRV-REQUIRE-13', 'IT-Operaciones', 'Baja');
 INSERT INTO public.assets (device_ip, device_name, department, criticality_level) VALUES ('192.168.44.131', 'SRV-PERFORMANCE-41', 'Tecnología', 'Baja');
