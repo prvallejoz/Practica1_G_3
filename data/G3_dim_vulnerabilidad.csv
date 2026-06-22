@@ -1,81 +1,81 @@
 sk_vuln,vuln_id,cve_id,system,vendor,vulnerability_type,cvss_score,cvss_severity,estado_parche,prioridad_remediacion,dias_desde_descubrimiento,affected_hosts,exploited_in_wild
-1,1,CVE-2024-29772,Apache 2.4,Apache Foundation,Denial Of Service,5.2,Medium,Aplicado,Media,652,6,False
-2,2,CVE-2024-19156,Python 3.8,PostgreSQL Global Dev Group,Buffer Overflow,3.9,Low,Aplicado,Baja,610,4,False
-3,3,CVE-2023-82963,nginx 1.18,PostgreSQL Global Dev Group,Remote Code Execution,8.9,High,Aplicado,Inmediata,853,24,True
-4,4,CVE-2022-18229,Python 3.8,OpenSSL Project,Information Disclosure,6.5,Medium,Sin parche,Media,614,20,False
-5,5,CVE-2023-41994,nginx 1.18,Python Software Foundation,Information Disclosure,2.7,Low,Disponible,Baja,626,33,False
-6,6,CVE-2023-54833,PostgreSQL 13,PostgreSQL Global Dev Group,Buffer Overflow,3.2,Low,Disponible,Baja,728,39,False
-7,7,CVE-2022-69795,Apache 2.4,Nginx Inc,Information Disclosure,2.6,Low,Disponible,Baja,558,19,False
-8,8,CVE-2022-55482,PostgreSQL 13,Nginx Inc,Remote Code Execution,2.2,Low,Aplicado,Baja,777,26,False
-9,9,CVE-2024-20561,PostgreSQL 13,Python Software Foundation,Privilege Escalation,3.3,Low,Disponible,Baja,554,44,False
-10,10,CVE-2023-29781,OpenSSL 1.1,OpenSSL Project,Authentication Bypass,2.7,Low,Disponible,Baja,623,19,True
-11,11,CVE-2023-64912,Python 3.8,Python Software Foundation,Privilege Escalation,6.3,Medium,Aplicado,Media,662,26,False
-12,12,CVE-2024-23570,PostgreSQL 13,Apache Foundation,Remote Code Execution,5.9,Medium,Disponible,Media,839,39,True
-13,13,CVE-2023-10030,Python 3.8,Apache Foundation,Privilege Escalation,6.5,Medium,Disponible,Media,792,10,False
-14,14,CVE-2024-88941,Apache 2.4,Apache Foundation,Information Disclosure,4.9,Medium,Sin parche,Media,867,48,False
-15,15,CVE-2022-44702,Django 3.2,OpenSSL Project,Denial Of Service,5.8,Medium,Disponible,Media,647,45,True
-16,16,CVE-2022-49071,Node.js 14,Apache Foundation,Authentication Bypass,9.8,Critical,Aplicado,Urgente,726,35,False
-17,17,CVE-2022-39234,Node.js 14,OpenSSL Project,Remote Code Execution,6.9,Medium,Aplicado,Media,795,23,True
-18,18,CVE-2023-46623,OpenSSL 1.1,Python Software Foundation,Privilege Escalation,5.8,Medium,Sin parche,Media,748,7,False
-19,19,CVE-2024-35782,PostgreSQL 13,Python Software Foundation,Denial Of Service,4.7,Medium,Disponible,Media,595,25,False
-20,20,CVE-2024-33399,Django 3.2,Nginx Inc,Buffer Overflow,5.5,Medium,Aplicado,Media,562,9,True
-21,21,CVE-2023-87438,Node.js 14,OpenSSL Project,Denial Of Service,9.2,Critical,Sin parche,Inmediata,825,2,True
-22,22,CVE-2022-95154,Django 3.2,OpenSSL Project,Information Disclosure,2.8,Low,Aplicado,Baja,894,19,False
-23,23,CVE-2022-52728,PostgreSQL 13,OpenSSL Project,Buffer Overflow,4.1,Medium,Disponible,Media,654,34,True
-24,24,CVE-2024-34000,Node.js 14,OpenSSL Project,Remote Code Execution,6.9,Medium,Aplicado,Media,657,44,False
-25,25,CVE-2023-83439,OpenSSL 1.1,Nginx Inc,Buffer Overflow,2.5,Low,Aplicado,Baja,857,40,False
-26,26,CVE-2022-46331,Python 3.8,PostgreSQL Global Dev Group,Denial Of Service,5.6,Medium,Disponible,Media,652,9,False
-27,27,CVE-2023-61427,Apache 2.4,OpenSSL Project,Information Disclosure,5.5,Medium,Disponible,Media,756,50,False
-28,28,CVE-2022-94339,OpenSSL 1.1,Nginx Inc,Remote Code Execution,7.3,High,Sin parche,Alta,859,11,False
-29,29,CVE-2023-66560,PostgreSQL 13,Nginx Inc,Information Disclosure,10.0,Critical,Aplicado,Urgente,556,22,False
-30,30,CVE-2024-12370,Python 3.8,Python Software Foundation,Privilege Escalation,5.1,Medium,Disponible,Media,808,17,False
-31,31,CVE-2023-33796,OpenSSL 1.1,PostgreSQL Global Dev Group,Authentication Bypass,4.2,Medium,Disponible,Media,557,18,True
-32,32,CVE-2022-34031,Apache 2.4,Nginx Inc,Buffer Overflow,5.4,Medium,Aplicado,Media,601,5,False
-33,33,CVE-2023-69477,Python 3.8,PostgreSQL Global Dev Group,Privilege Escalation,2.1,Low,Disponible,Baja,560,11,False
-34,34,CVE-2023-33743,nginx 1.18,Nginx Inc,Denial Of Service,3.6,Low,Disponible,Baja,637,18,False
-35,35,CVE-2023-42826,Apache 2.4,Python Software Foundation,Denial Of Service,2.3,Low,Aplicado,Baja,686,43,False
-36,36,CVE-2022-61522,nginx 1.18,OpenSSL Project,Remote Code Execution,9.8,Critical,Disponible,Urgente,544,26,False
-37,37,CVE-2023-27015,Django 3.2,Nginx Inc,Information Disclosure,2.1,Low,Disponible,Baja,571,33,False
-38,38,CVE-2022-41747,Apache 2.4,PostgreSQL Global Dev Group,Remote Code Execution,7.5,High,Disponible,Alta,894,22,False
-39,39,CVE-2023-14515,nginx 1.18,OpenSSL Project,Privilege Escalation,9.7,Critical,Disponible,Urgente,718,18,False
-40,40,CVE-2023-76156,Apache 2.4,Nginx Inc,Buffer Overflow,8.2,High,Aplicado,Alta,720,20,False
-41,41,CVE-2023-86753,Node.js 14,OpenSSL Project,Authentication Bypass,9.7,Critical,Sin parche,Urgente,833,3,False
-42,42,CVE-2022-76262,Python 3.8,Python Software Foundation,Denial Of Service,3.1,Low,Aplicado,Baja,871,9,False
-43,43,CVE-2023-59364,Python 3.8,Apache Foundation,Authentication Bypass,8.7,High,Aplicado,Inmediata,681,30,True
-44,44,CVE-2022-75925,Apache 2.4,Python Software Foundation,Buffer Overflow,9.2,Critical,Sin parche,Urgente,844,16,False
-45,45,CVE-2023-95187,PostgreSQL 13,PostgreSQL Global Dev Group,Buffer Overflow,9.8,Critical,Sin parche,Urgente,883,5,False
-46,46,CVE-2024-43284,Django 3.2,Nginx Inc,Denial Of Service,7.2,High,Disponible,Inmediata,887,44,True
-47,47,CVE-2022-38533,nginx 1.18,Python Software Foundation,Privilege Escalation,7.4,High,Aplicado,Alta,652,6,False
-48,48,CVE-2023-47956,Node.js 14,Python Software Foundation,Information Disclosure,5.7,Medium,Aplicado,Media,853,10,False
-49,49,CVE-2024-27380,Django 3.2,Python Software Foundation,Privilege Escalation,6.8,Medium,Aplicado,Media,674,2,False
-50,50,CVE-2023-74447,PostgreSQL 13,Nginx Inc,Authentication Bypass,7.5,High,Disponible,Alta,747,1,False
-51,51,CVE-2024-62200,OpenSSL 1.1,Apache Foundation,Authentication Bypass,3.0,Low,Disponible,Baja,859,38,True
-52,52,CVE-2024-66105,Node.js 14,Apache Foundation,Privilege Escalation,8.0,High,Disponible,Alta,588,16,False
-53,53,CVE-2024-76972,Node.js 14,Nginx Inc,Information Disclosure,4.5,Medium,Disponible,Media,641,47,True
-54,54,CVE-2023-63855,Node.js 14,OpenSSL Project,Authentication Bypass,5.6,Medium,Aplicado,Media,827,22,False
-55,55,CVE-2024-43520,Django 3.2,Nginx Inc,Information Disclosure,7.9,High,Disponible,Alta,866,5,False
-56,56,CVE-2022-75152,PostgreSQL 13,Nginx Inc,Information Disclosure,6.4,Medium,Sin parche,Media,804,12,False
-57,57,CVE-2022-21939,nginx 1.18,Nginx Inc,Denial Of Service,4.6,Medium,Disponible,Media,707,25,False
-58,58,CVE-2024-18134,Python 3.8,Nginx Inc,Remote Code Execution,6.0,Medium,Disponible,Media,799,42,False
-59,59,CVE-2024-50896,Node.js 14,Apache Foundation,Remote Code Execution,8.8,High,Disponible,Alta,613,5,False
-60,60,CVE-2022-71361,OpenSSL 1.1,Apache Foundation,Remote Code Execution,9.8,Critical,Disponible,Inmediata,594,6,True
-61,61,CVE-2023-26469,Apache 2.4,Nginx Inc,Remote Code Execution,3.9,Low,Disponible,Baja,543,7,True
-62,62,CVE-2024-78738,OpenSSL 1.1,PostgreSQL Global Dev Group,Privilege Escalation,9.5,Critical,Aplicado,Urgente,885,30,False
-63,63,CVE-2024-94485,OpenSSL 1.1,PostgreSQL Global Dev Group,Denial Of Service,8.7,High,Aplicado,Inmediata,698,4,True
-64,64,CVE-2023-75314,Django 3.2,PostgreSQL Global Dev Group,Buffer Overflow,9.1,Critical,Disponible,Inmediata,709,32,True
-65,65,CVE-2022-54309,nginx 1.18,PostgreSQL Global Dev Group,Remote Code Execution,7.7,High,Aplicado,Alta,796,20,False
-66,66,CVE-2023-70963,Node.js 14,Nginx Inc,Buffer Overflow,3.8,Low,Aplicado,Baja,676,39,False
-67,67,CVE-2024-17124,Python 3.8,OpenSSL Project,Information Disclosure,3.7,Low,Aplicado,Baja,706,47,True
-68,68,CVE-2023-31709,OpenSSL 1.1,Python Software Foundation,Authentication Bypass,4.6,Medium,Sin parche,Media,574,24,False
-69,69,CVE-2024-32185,Apache 2.4,Nginx Inc,Buffer Overflow,2.9,Low,Aplicado,Baja,634,25,False
-70,70,CVE-2024-66681,Django 3.2,PostgreSQL Global Dev Group,Remote Code Execution,2.7,Low,Disponible,Baja,801,48,False
-71,71,CVE-2023-92793,Node.js 14,PostgreSQL Global Dev Group,Buffer Overflow,5.3,Medium,Sin parche,Media,846,17,False
-72,72,CVE-2022-18238,nginx 1.18,Nginx Inc,Privilege Escalation,9.2,Critical,Aplicado,Urgente,758,18,False
-73,73,CVE-2023-88062,Django 3.2,Apache Foundation,Buffer Overflow,9.3,Critical,Disponible,Urgente,553,17,False
-74,74,CVE-2024-27394,OpenSSL 1.1,Apache Foundation,Authentication Bypass,9.4,Critical,Aplicado,Urgente,621,21,False
-75,75,CVE-2024-88081,OpenSSL 1.1,PostgreSQL Global Dev Group,Remote Code Execution,2.6,Low,Aplicado,Baja,672,11,False
-76,76,CVE-2023-19458,Apache 2.4,OpenSSL Project,Buffer Overflow,4.1,Medium,Sin parche,Media,835,27,False
-77,77,CVE-2022-98356,Python 3.8,Apache Foundation,Privilege Escalation,3.9,Low,Disponible,Baja,770,48,False
-78,78,CVE-2023-67592,OpenSSL 1.1,OpenSSL Project,Remote Code Execution,4.0,Medium,Aplicado,Media,748,17,False
-79,79,CVE-2022-78984,Node.js 14,Apache Foundation,Authentication Bypass,3.9,Low,Aplicado,Baja,887,29,False
-80,80,CVE-2023-48492,Apache 2.4,OpenSSL Project,Denial Of Service,3.9,Low,Disponible,Baja,631,29,False
+1,1,CVE-2024-29772,Apache 2.4,Apache Foundation,Denial Of Service,5.2,Medium,Aplicado,Media,653,6,False
+2,2,CVE-2024-19156,Python 3.8,PostgreSQL Global Dev Group,Buffer Overflow,3.9,Low,Aplicado,Baja,611,4,False
+3,3,CVE-2023-82963,nginx 1.18,PostgreSQL Global Dev Group,Remote Code Execution,8.9,High,Aplicado,Inmediata,854,24,True
+4,4,CVE-2022-18229,Python 3.8,OpenSSL Project,Information Disclosure,6.5,Medium,Sin parche,Media,615,20,False
+5,5,CVE-2023-41994,nginx 1.18,Python Software Foundation,Information Disclosure,2.7,Low,Disponible,Baja,627,33,False
+6,6,CVE-2023-54833,PostgreSQL 13,PostgreSQL Global Dev Group,Buffer Overflow,3.2,Low,Disponible,Baja,729,39,False
+7,7,CVE-2022-69795,Apache 2.4,Nginx Inc,Information Disclosure,2.6,Low,Disponible,Baja,559,19,False
+8,8,CVE-2022-55482,PostgreSQL 13,Nginx Inc,Remote Code Execution,2.2,Low,Aplicado,Baja,778,26,False
+9,9,CVE-2024-20561,PostgreSQL 13,Python Software Foundation,Privilege Escalation,3.3,Low,Disponible,Baja,555,44,False
+10,10,CVE-2023-29781,OpenSSL 1.1,OpenSSL Project,Authentication Bypass,2.7,Low,Disponible,Baja,624,19,True
+11,11,CVE-2023-64912,Python 3.8,Python Software Foundation,Privilege Escalation,6.3,Medium,Aplicado,Media,663,26,False
+12,12,CVE-2024-23570,PostgreSQL 13,Apache Foundation,Remote Code Execution,5.9,Medium,Disponible,Media,840,39,True
+13,13,CVE-2023-10030,Python 3.8,Apache Foundation,Privilege Escalation,6.5,Medium,Disponible,Media,793,10,False
+14,14,CVE-2024-88941,Apache 2.4,Apache Foundation,Information Disclosure,4.9,Medium,Sin parche,Media,868,48,False
+15,15,CVE-2022-44702,Django 3.2,OpenSSL Project,Denial Of Service,5.8,Medium,Disponible,Media,648,45,True
+16,16,CVE-2022-49071,Node.js 14,Apache Foundation,Authentication Bypass,9.8,Critical,Aplicado,Urgente,727,35,False
+17,17,CVE-2022-39234,Node.js 14,OpenSSL Project,Remote Code Execution,6.9,Medium,Aplicado,Media,796,23,True
+18,18,CVE-2023-46623,OpenSSL 1.1,Python Software Foundation,Privilege Escalation,5.8,Medium,Sin parche,Media,749,7,False
+19,19,CVE-2024-35782,PostgreSQL 13,Python Software Foundation,Denial Of Service,4.7,Medium,Disponible,Media,596,25,False
+20,20,CVE-2024-33399,Django 3.2,Nginx Inc,Buffer Overflow,5.5,Medium,Aplicado,Media,563,9,True
+21,21,CVE-2023-87438,Node.js 14,OpenSSL Project,Denial Of Service,9.2,Critical,Sin parche,Inmediata,826,2,True
+22,22,CVE-2022-95154,Django 3.2,OpenSSL Project,Information Disclosure,2.8,Low,Aplicado,Baja,895,19,False
+23,23,CVE-2022-52728,PostgreSQL 13,OpenSSL Project,Buffer Overflow,4.1,Medium,Disponible,Media,655,34,True
+24,24,CVE-2024-34000,Node.js 14,OpenSSL Project,Remote Code Execution,6.9,Medium,Aplicado,Media,658,44,False
+25,25,CVE-2023-83439,OpenSSL 1.1,Nginx Inc,Buffer Overflow,2.5,Low,Aplicado,Baja,858,40,False
+26,26,CVE-2022-46331,Python 3.8,PostgreSQL Global Dev Group,Denial Of Service,5.6,Medium,Disponible,Media,653,9,False
+27,27,CVE-2023-61427,Apache 2.4,OpenSSL Project,Information Disclosure,5.5,Medium,Disponible,Media,757,50,False
+28,28,CVE-2022-94339,OpenSSL 1.1,Nginx Inc,Remote Code Execution,7.3,High,Sin parche,Alta,860,11,False
+29,29,CVE-2023-66560,PostgreSQL 13,Nginx Inc,Information Disclosure,10.0,Critical,Aplicado,Urgente,557,22,False
+30,30,CVE-2024-12370,Python 3.8,Python Software Foundation,Privilege Escalation,5.1,Medium,Disponible,Media,809,17,False
+31,31,CVE-2023-33796,OpenSSL 1.1,PostgreSQL Global Dev Group,Authentication Bypass,4.2,Medium,Disponible,Media,558,18,True
+32,32,CVE-2022-34031,Apache 2.4,Nginx Inc,Buffer Overflow,5.4,Medium,Aplicado,Media,602,5,False
+33,33,CVE-2023-69477,Python 3.8,PostgreSQL Global Dev Group,Privilege Escalation,2.1,Low,Disponible,Baja,561,11,False
+34,34,CVE-2023-33743,nginx 1.18,Nginx Inc,Denial Of Service,3.6,Low,Disponible,Baja,638,18,False
+35,35,CVE-2023-42826,Apache 2.4,Python Software Foundation,Denial Of Service,2.3,Low,Aplicado,Baja,687,43,False
+36,36,CVE-2022-61522,nginx 1.18,OpenSSL Project,Remote Code Execution,9.8,Critical,Disponible,Urgente,545,26,False
+37,37,CVE-2023-27015,Django 3.2,Nginx Inc,Information Disclosure,2.1,Low,Disponible,Baja,572,33,False
+38,38,CVE-2022-41747,Apache 2.4,PostgreSQL Global Dev Group,Remote Code Execution,7.5,High,Disponible,Alta,895,22,False
+39,39,CVE-2023-14515,nginx 1.18,OpenSSL Project,Privilege Escalation,9.7,Critical,Disponible,Urgente,719,18,False
+40,40,CVE-2023-76156,Apache 2.4,Nginx Inc,Buffer Overflow,8.2,High,Aplicado,Alta,721,20,False
+41,41,CVE-2023-86753,Node.js 14,OpenSSL Project,Authentication Bypass,9.7,Critical,Sin parche,Urgente,834,3,False
+42,42,CVE-2022-76262,Python 3.8,Python Software Foundation,Denial Of Service,3.1,Low,Aplicado,Baja,872,9,False
+43,43,CVE-2023-59364,Python 3.8,Apache Foundation,Authentication Bypass,8.7,High,Aplicado,Inmediata,682,30,True
+44,44,CVE-2022-75925,Apache 2.4,Python Software Foundation,Buffer Overflow,9.2,Critical,Sin parche,Urgente,845,16,False
+45,45,CVE-2023-95187,PostgreSQL 13,PostgreSQL Global Dev Group,Buffer Overflow,9.8,Critical,Sin parche,Urgente,884,5,False
+46,46,CVE-2024-43284,Django 3.2,Nginx Inc,Denial Of Service,7.2,High,Disponible,Inmediata,888,44,True
+47,47,CVE-2022-38533,nginx 1.18,Python Software Foundation,Privilege Escalation,7.4,High,Aplicado,Alta,653,6,False
+48,48,CVE-2023-47956,Node.js 14,Python Software Foundation,Information Disclosure,5.7,Medium,Aplicado,Media,854,10,False
+49,49,CVE-2024-27380,Django 3.2,Python Software Foundation,Privilege Escalation,6.8,Medium,Aplicado,Media,675,2,False
+50,50,CVE-2023-74447,PostgreSQL 13,Nginx Inc,Authentication Bypass,7.5,High,Disponible,Alta,748,1,False
+51,51,CVE-2024-62200,OpenSSL 1.1,Apache Foundation,Authentication Bypass,3.0,Low,Disponible,Baja,860,38,True
+52,52,CVE-2024-66105,Node.js 14,Apache Foundation,Privilege Escalation,8.0,High,Disponible,Alta,589,16,False
+53,53,CVE-2024-76972,Node.js 14,Nginx Inc,Information Disclosure,4.5,Medium,Disponible,Media,642,47,True
+54,54,CVE-2023-63855,Node.js 14,OpenSSL Project,Authentication Bypass,5.6,Medium,Aplicado,Media,828,22,False
+55,55,CVE-2024-43520,Django 3.2,Nginx Inc,Information Disclosure,7.9,High,Disponible,Alta,867,5,False
+56,56,CVE-2022-75152,PostgreSQL 13,Nginx Inc,Information Disclosure,6.4,Medium,Sin parche,Media,805,12,False
+57,57,CVE-2022-21939,nginx 1.18,Nginx Inc,Denial Of Service,4.6,Medium,Disponible,Media,708,25,False
+58,58,CVE-2024-18134,Python 3.8,Nginx Inc,Remote Code Execution,6.0,Medium,Disponible,Media,800,42,False
+59,59,CVE-2024-50896,Node.js 14,Apache Foundation,Remote Code Execution,8.8,High,Disponible,Alta,614,5,False
+60,60,CVE-2022-71361,OpenSSL 1.1,Apache Foundation,Remote Code Execution,9.8,Critical,Disponible,Inmediata,595,6,True
+61,61,CVE-2023-26469,Apache 2.4,Nginx Inc,Remote Code Execution,3.9,Low,Disponible,Baja,544,7,True
+62,62,CVE-2024-78738,OpenSSL 1.1,PostgreSQL Global Dev Group,Privilege Escalation,9.5,Critical,Aplicado,Urgente,886,30,False
+63,63,CVE-2024-94485,OpenSSL 1.1,PostgreSQL Global Dev Group,Denial Of Service,8.7,High,Aplicado,Inmediata,699,4,True
+64,64,CVE-2023-75314,Django 3.2,PostgreSQL Global Dev Group,Buffer Overflow,9.1,Critical,Disponible,Inmediata,710,32,True
+65,65,CVE-2022-54309,nginx 1.18,PostgreSQL Global Dev Group,Remote Code Execution,7.7,High,Aplicado,Alta,797,20,False
+66,66,CVE-2023-70963,Node.js 14,Nginx Inc,Buffer Overflow,3.8,Low,Aplicado,Baja,677,39,False
+67,67,CVE-2024-17124,Python 3.8,OpenSSL Project,Information Disclosure,3.7,Low,Aplicado,Baja,707,47,True
+68,68,CVE-2023-31709,OpenSSL 1.1,Python Software Foundation,Authentication Bypass,4.6,Medium,Sin parche,Media,575,24,False
+69,69,CVE-2024-32185,Apache 2.4,Nginx Inc,Buffer Overflow,2.9,Low,Aplicado,Baja,635,25,False
+70,70,CVE-2024-66681,Django 3.2,PostgreSQL Global Dev Group,Remote Code Execution,2.7,Low,Disponible,Baja,802,48,False
+71,71,CVE-2023-92793,Node.js 14,PostgreSQL Global Dev Group,Buffer Overflow,5.3,Medium,Sin parche,Media,847,17,False
+72,72,CVE-2022-18238,nginx 1.18,Nginx Inc,Privilege Escalation,9.2,Critical,Aplicado,Urgente,759,18,False
+73,73,CVE-2023-88062,Django 3.2,Apache Foundation,Buffer Overflow,9.3,Critical,Disponible,Urgente,554,17,False
+74,74,CVE-2024-27394,OpenSSL 1.1,Apache Foundation,Authentication Bypass,9.4,Critical,Aplicado,Urgente,622,21,False
+75,75,CVE-2024-88081,OpenSSL 1.1,PostgreSQL Global Dev Group,Remote Code Execution,2.6,Low,Aplicado,Baja,673,11,False
+76,76,CVE-2023-19458,Apache 2.4,OpenSSL Project,Buffer Overflow,4.1,Medium,Sin parche,Media,836,27,False
+77,77,CVE-2022-98356,Python 3.8,Apache Foundation,Privilege Escalation,3.9,Low,Disponible,Baja,771,48,False
+78,78,CVE-2023-67592,OpenSSL 1.1,OpenSSL Project,Remote Code Execution,4.0,Medium,Aplicado,Media,749,17,False
+79,79,CVE-2022-78984,Node.js 14,Apache Foundation,Authentication Bypass,3.9,Low,Aplicado,Baja,888,29,False
+80,80,CVE-2023-48492,Apache 2.4,OpenSSL Project,Denial Of Service,3.9,Low,Disponible,Baja,632,29,False
