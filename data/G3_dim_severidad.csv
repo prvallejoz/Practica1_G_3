@@ -1,0 +1,5 @@
+sk_severidad,severity_std,nivel_numerico,descripcion,color_semaforo
+1,Low,1,Riesgo bajo — monitoreo rutinario,Verde
+2,Medium,2,Riesgo medio — revisión en 72h,Amarillo
+3,High,3,Riesgo alto — atención prioritaria en 24h,Naranja
+4,Critical,4,Riesgo crítico — respuesta inmediata < 4h,Rojo

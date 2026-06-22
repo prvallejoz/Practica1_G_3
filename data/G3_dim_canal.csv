@@ -1,0 +1,7 @@
+sk_canal,channel,tipo_canal
+1,Internet Banking,Web
+2,Cash Management,Corporativo
+3,Pos Terminal,Otro
+4,Mobile Banking,Móvil
+5,Atm Network,Autoservicio
+6,Open Banking Api,Otro
